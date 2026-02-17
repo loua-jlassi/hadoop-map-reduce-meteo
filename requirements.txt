@@ -1,0 +1,10 @@
+# MapReduce (Python 3 - utilisé avec Hadoop Streaming)
+# Aucune dépendance externe requise pour mapper/reducer
+
+# Partie B - Spark & Twitter Streaming
+pyspark>=3.4.0
+tweepy>=4.14.0
+python-dotenv>=1.0.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+scikit-learn>=1.3.0
